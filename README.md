@@ -78,14 +78,14 @@ For now the only authentication option is 'RBAC'. When enabling this, this modul
 
 | Name | Version |
 |------|---------|
-| terraform | ~> 0.15 |
-| aws | ~> 3.12.0 |
+| terraform | ~> 1.7.3 |
+| aws | ~> 5.3.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| aws | ~> 3.12.0 |
+| aws | ~> 5.3.0 |
 
 ## Inputs
 
